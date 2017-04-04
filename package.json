@@ -1,0 +1,28 @@
+{
+  "name": "hubot-librarynames",
+  "version": "0.0.1",
+  "description": "Generate awesome OpenSource project names right from Hubot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbrujo/hubot-librarynames.git"
+  },
+  "keywords": [
+    "hubot",
+    "random",
+    "generator",
+    "library"
+  ],
+  "author": "Jorge Epuñan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanbrujo/hubot-librarynames/issues"
+  },
+  "homepage": "https://github.com/juanbrujo/hubot-librarynames#readme",
+  "dependencies": {
+    "foswig": "^1.1.1"
+  }
+}
